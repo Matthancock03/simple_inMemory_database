@@ -9,7 +9,7 @@ class SimpleDatabase {
   */
   private  HashMap<String, Integer> database = new HashMap<>();
   private  HashMap<Integer, Integer> countMap = new HashMap<>();
-  private  Node transactionStack;
+  private  Node transactionStack; // Stack implemented as a LinkedList to manage transaction stack. 
 
   public void set(String key, Integer value){
     if(transactionStack != null){
