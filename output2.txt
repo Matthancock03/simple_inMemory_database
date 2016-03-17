@@ -1,0 +1,8 @@
+
+Please enter a command. You may enter '-help' at any time
+for a list of available commands. Type 'END' to leave system.
+
+a: 40
+NO TRANSACTION
+a: 40
+Thank you for using my database system. Good bye.

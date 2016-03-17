@@ -1,0 +1,9 @@
+
+Please enter a command. You may enter '-help' at any time
+for a list of available commands. Type 'END' to leave system.
+
+a: 10
+a: 20
+a: 10
+a: null
+Thank you for using my database system. Good bye.
